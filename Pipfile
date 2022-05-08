@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 fastapi = "*"
 uvicorn = "*"
+passlib = "*"
+bcrypt = "*"
+python-multipart = "*"
+aiofiles = "*"
+python-jose = "*"
+SQLAlchemy = "*"
 
 [dev-packages]
 
